@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **UI/UX**
 
-- 💬 Ask me about **UI/UX**
+- 💬 Ask me about **Python-DSA**
 
 - 📫 How to reach me **gowhar236@gmail.com**
 
