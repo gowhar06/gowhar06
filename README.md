@@ -16,8 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/gowhar06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/gowhar06" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shaikgowhar672004/" target="blank"><img align="centre" alt="https://www.linkedin.com/in/shaikgowhar672004/" src="![linkedin logo](https://github.com/user-attachments/assets/3c000310-25bc-4a82-8dfd-5ad7fc3cbc9d)
-" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/shaikgowhar672004/" target="blank"><img align="centre" alt="Shaik Gowhar LinkedIn" src="https://github.com/user-attachments/assets/3c000310-25bc-4a82-8dfd-5ad7fc3cbc9d" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
